@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter runtime files
+.jupyter/
+*.json
+*.log
+
+# Output files
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.pkl
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment config
+.env
+*.env
+.env.*
+
+# Pip freeze file (keep this if you're using it!)
+# !requirements.txt
+
+# Conda environment file
+environment.yml
+
+# Plotly cache
+__plotly__/
+
+# IPython history
+.ipython/
+
+# Pytest cache
+.pytest_cache/
